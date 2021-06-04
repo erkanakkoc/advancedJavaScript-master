@@ -70,6 +70,11 @@ let category = {id:1, name: "İçecek"}
 console.log(category.id)
 console.log(category["name"])
 
+let {id,name} = category
+console.log(id)
+console.log(name)
+
+ 
 
 
 
